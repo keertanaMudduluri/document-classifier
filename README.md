@@ -4,16 +4,11 @@
 
 ---
 
-## 🚀 Live Demo
-
-**Live App:** `https://<your-app>.streamlit.app`  
-**GitHub:** `https://github.com/<your-username>/document-classifier`
-
----
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after deployment)*
+> <img width="959" height="505" alt="image" src="https://github.com/user-attachments/assets/7cf25051-9172-42d8-887e-f48ccbd90cc1" />
+
 
 ---
 
